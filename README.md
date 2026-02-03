@@ -27,11 +27,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
  ![Java](https://img.shields.io/badge/java-%23323330.svg?style=flat&logo=java&logoColor=%23F7DF1E)  
-![Java](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=flat&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-JSON%20Web%20Token-black)
 ![OAuth2](https://img.shields.io/badge/OAuth2-Authorization-blue)
