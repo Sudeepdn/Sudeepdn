@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sudeep D N</h1>
-<h3 align="center">A passionate developer/Solution Architect from India </h3>
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | <br>
+📍 Bengaluru, India 🇮🇳 </h3>
 
 <br>
 <br>
 
-- 🌱 I’m currently been learning **Fulstack java**
+ 💼 Technical Trainee Engineer – Java | Spring Boot | MySQL
 
-- 👨‍💻 I’m currently working at parvam - **Parvam consultech service**
-  
-- 💻 All of my projects are available on [GitHub](https://github.com/Sudeepdn)
+🌱 Currently learning Advanced Spring Boot, Microservices & System Design
 
-- 💬 Ask me about **Programming, Java, HTML, CSS**
+🧠 Strong foundation in OOPs, DBMS, SQL
 
-- 📫 Reach out to me at **sudeepnaduvinamani2002@gmail.com**
+🔐 Experience with Spring Security, JWT & OAuth2
+
+🛠️ Love building real-world projects and clean code
+
+📫 Reach me at sudeepnaduvinamani45@gmail.com
 
 <h3 align="left">GitHub Stats:</h3>
 <div>
